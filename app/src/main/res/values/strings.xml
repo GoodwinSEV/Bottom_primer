@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bottom_primer</string>
+    <string name="title_home">Первая</string>
+    <string name="title_dashboard">Вторая</string>
+    <string name="title_notifications">Третья</string>
+    <string name="title_four">Четвертая</string>
+
+
+</resources>
